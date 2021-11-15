@@ -1,0 +1,14 @@
+1. save api key to .env
+
+2. set up react router
+
+3. set up movie fetch in context
+
+4.
+set up movies js
+
+5. set up searchfrom js
+
+6. setUp single moive js
+
+7,
